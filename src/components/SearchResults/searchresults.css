@@ -1,0 +1,13 @@
+.container_search_results{
+  display: flex;
+  flex-direction: row;
+}
+.column {
+  width: 55%;
+}
+.column_map{
+  position: fixed;
+  width: 45%;
+  right: 0;
+  top: 0;
+}

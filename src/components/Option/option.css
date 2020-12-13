@@ -1,0 +1,23 @@
+.option_card {
+  display: flex;
+  flex-direction: row;
+  border-top:    1px solid  #dbe6f6;
+  border-bottom:    1px solid  #dbe6f6;
+}
+.option_card img{
+  margin: 20px;
+  border-radius: 10px;
+}
+.rating_price{
+  display: flex;
+  justify-content: space-between;
+}
+.flex_grow{
+  flex-grow: 1;
+}
+.img_center{
+  align-self: center;
+}
+.option_card p,h3{
+  margin: 10px;
+}
